@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 ### Hello World 👋
 I'm Casey McLellan, full-stack software engineer. I'm currently studying full-time with the School of Code, but I still try to find time for my own personal projects on the side! 😅 I am passionate about problem solving and building things that others might fun or useful. Thank you for stopping by. 😊
 
+Check out my [portfolio site here!](https://c-mclellan.netlify.app)
+
 - 🔭 I’m currently working on ...
   - Better documentation and testing for my personal projects.
   - Social connections app for the School of Code National Bootcamp final project.
