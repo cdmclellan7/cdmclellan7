@@ -30,4 +30,4 @@ Check out my [portfolio site here!](https://c-mclellan.netlify.app)
   - MongoDB
 
 - 📫 How to reach me: ...
-  - [LinkedIn](www.linkedin.com/in/cdmclellan7)
+  - [LinkedIn](https://www.linkedin.com/in/cdmclellan7)
